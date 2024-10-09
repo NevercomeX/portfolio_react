@@ -1,4 +1,4 @@
-import ProjectComponentpage from '@/app/projects/components/page';
+import ProjectComponentpage from './components/page';
 import FooterSection from '@/components/Footer';
 import NavBarSection from '@/components/Navs';
 

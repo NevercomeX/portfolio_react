@@ -17,7 +17,7 @@ export default function ProjectCard({
     <>
       <li className='' key={title}>
         <Link
-          href={`/projects/${slug}/`}
+          href={`/projects/${slug}`}
           passHref
           prefetch={false}
           className='flex w-[22rem] h-[23rem] flex-col items-center rounded-md border-[1px] border-[#818181] text-center shadow-md text-white font-sans'
